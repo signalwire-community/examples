@@ -4,7 +4,7 @@ This example uses the components from
 [@signalwire-community/react](https://github.com/signalwire-community/react/)
 package to easily build dynamic user interfaces.
 
-📖 [Read the full guide](https://developer.signalwire.com/guides/video-api/guides/making-react-ui-community-hooks/)
+📖 [Read the full guide](https://developer.signalwire.com/guides/video/using-events)
 
 ## Usage
 
