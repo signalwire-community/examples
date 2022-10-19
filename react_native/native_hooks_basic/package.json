@@ -6,6 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.4.8",
     "@signalwire-community/react-native": "^1.0.0",
     "expo": "~46.0.16",
     "expo-dev-client": "~1.1.1",
