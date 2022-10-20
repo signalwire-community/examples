@@ -2,7 +2,7 @@
 
 This example uses the components from [@signalwire-community/react](https://github.com/signalwire-community/react/) package to demonstrate a few simple features of the SignalWire Video SDK.
 
-📖 [Read the full guide](https://developer.signalwire.com/guides/video-api/guides/using-video-api-react-native/)
+📖 [Read the full guide](https://developer.signalwire.com/guides/video/using-events)
 
 ## Usage
 
